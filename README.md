@@ -1,2 +1,2 @@
-# Multitype_Moran_Simulation
+# Multitype Moran Simulation
 Simulating genealogies under the multitype Moran process.
